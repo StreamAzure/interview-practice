@@ -18,11 +18,11 @@
           <a-menu-item key="/index">默写</a-menu-item>
           <a-menu-item key="/random">抽题</a-menu-item>
           <a-menu-item key="/questions">问题列表</a-menu-item>
-          <a-menu-item>
-            <a href="https://github.com/htfc786/zzti-web" target="_blank">
+          <!-- <a-menu-item>
+            <a href="https://github.com/StreamAzure/interview-practice" target="_blank">
               <github-outlined /> 代码开源
             </a>
-          </a-menu-item>
+          </a-menu-item> -->
         </a-menu>
       </a-col>
     </a-row>
@@ -30,10 +30,10 @@
       <router-view />
     </div>
     <div class="footer">
-      <span>备注：{{ notes }}</span>
-      <span><a href="https://github.com/htfc786/zzti-web" target="_blank">zzti-web</a> - 帮政治老师开发的默写抽题系统 by htfc786</span>
-      <span>前端代码感谢：<a href="https://github.com/liyupi/sql-mother" target="_blank">SQL之母</a> by 鱼皮</span>
-      <span>本站使用Github搭建</span>
+      <!-- <span>备注：{{ notes }}</span> -->
+      <!-- <span><a href="https://github.com/StreamAzure/interview-practice" target="_blank">zzti-web</a> - 帮政治老师开发的默写抽题系统 by htfc786</span> -->
+      <span>项目致谢：<a href="https://github.com/htfc786/zzti" target="_blank">zzti</a> by htfc786</span>
+      <!-- <span>本站使用Github搭建</span> -->
     </div>
   </div>
   <a-back-top :style="{ right: '24px' }" />
