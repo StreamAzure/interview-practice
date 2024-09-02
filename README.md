@@ -4,7 +4,7 @@
 
 ## 如何使用？
 #### 安装部署
-1. Fork 本仓库：
+1. Fork 本仓库
 
 2. 检查设置：
 在弹出的新页面点击上方 ![Settings](https://raw.githubusercontent.com/htfc786/zzti-server/img/zzti-web/img/help/btn/settings.png) ，在右侧列表点击 ![Actions](https://raw.githubusercontent.com/htfc786/zzti-server/img/zzti-web/img/help/btn/sett-actions.png) => ![General](https://raw.githubusercontent.com/htfc786/zzti-server/img/zzti-web/img/help/btn/sett-general.png)，把页面拉到最下面，找到 `Workflow permissions` ，确保设置和下图一样，最后点击 `Save` 保存设置即可
@@ -19,8 +19,8 @@
 等待1分钟左右，刷新页面，您就可以看到访问地址了，点击即可访问
 ![GitHubPages网址页面](https://raw.githubusercontent.com/htfc786/zzti-server/img/zzti-web/img/help/urlpage.png)
 
-## 软件
-- 使用框架：`Vue`
+## 技术栈
+- 前端框架：`Vue`
 - 前端组件库：`Ant Design Vue`
 - 构建工具：`vite`
 
