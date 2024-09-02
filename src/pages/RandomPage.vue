@@ -83,9 +83,9 @@ const randQues = () => {
 onMounted(() => {
   randQues()
 
-  if (store.savePathList_treeValue) {
-    message.info("已自动加载上次选择的抽题范围了")
-  }
+  // if (store.savePathList_treeValue) {
+  //   message.info("已自动加载上次选择的抽题范围了")
+  // }
 })
 </script>
 
