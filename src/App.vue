@@ -40,16 +40,16 @@
 </template>
 
 <script setup lang="ts">
-import { computed, onMounted, ref } from 'vue';
+import { computed, onMounted} from 'vue';
 import { useRoute, useRouter } from 'vue-router';
-import { GithubOutlined } from '@ant-design/icons-vue';
+// import { GithubOutlined } from '@ant-design/icons-vue';
 import { isSupportedCssVariable } from './core/tools';
-import { questionNote } from './questions/questions';
+// import { questionNote } from './questions/questions';
 
 const route = useRoute();
 const router = useRouter();
 
-const notes = ref<string>(questionNote);
+// const notes = ref<string>(questionNote);
 
 // 使中间容器铺满
 const changeContentMinHeight = () => {
