@@ -5,7 +5,7 @@
         <RouterLink to="/">
           <a-row align="middle">
             <img src="/vite.svg" alt="vite.svg" />
-            <span class="title">Vite + Vue + TS</span>
+            <span class="title">Quiz</span>
           </a-row>
         </RouterLink>
       </a-col>
