@@ -1,0 +1,1 @@
+import{_ as t,a as _,b as s,z as a}from"./index-e30200b3.js";const o={};function c(n,r){const e=_("a-result");return s(),a(e,{status:"404",title:"404","sub-title":"当前页面不存在！"})}const p=t(o,[["render",c],["__scopeId","data-v-f1a07301"]]);export{p as default};
